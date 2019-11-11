@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "C_Sharp_loops/1.0.0": {
+        "runtime": {
+          "C_Sharp_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C_Sharp_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

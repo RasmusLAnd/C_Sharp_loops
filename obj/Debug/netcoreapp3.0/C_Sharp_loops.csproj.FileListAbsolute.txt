@@ -1,0 +1,11 @@
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.runtimeconfig.dev.json
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\bin\Debug\netcoreapp3.0\C_Sharp_loops.pdb
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\obj\Debug\netcoreapp3.0\C_Sharp_loops.csprojAssemblyReference.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\obj\Debug\netcoreapp3.0\C_Sharp_loops.AssemblyInfoInputs.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\obj\Debug\netcoreapp3.0\C_Sharp_loops.AssemblyInfo.cs
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\obj\Debug\netcoreapp3.0\C_Sharp_loops.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Loops\C_Sharp_loops\obj\Debug\netcoreapp3.0\C_Sharp_loops.pdb
